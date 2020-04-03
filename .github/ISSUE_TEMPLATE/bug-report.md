@@ -1,8 +1,8 @@
 ---
 name: Bug report
 about: Submit a bug report
-title: ''
-labels: t:Bug report
+title: Bug-report
+labels: bug, documentation
 assignees: ''
 
 ---
